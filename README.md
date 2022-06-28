@@ -2,7 +2,7 @@
 This is a simple ETL pipeline to extract data from a source, clean it and load it to a database.
 
 <p align="center">
-  <img alt="banner" src=".github/banner.jpg" width="100%">
+  <img alt="banner" src="./banner.jpg" width="100%">
 </p>
 
 ## 🚀 Technologies
